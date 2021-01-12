@@ -1,5 +1,5 @@
 # CodeBackup
-Some toy, experimental, backup
+Some toy, experimental, or backup etc
 
 No any specific aspects and systematicity
 
